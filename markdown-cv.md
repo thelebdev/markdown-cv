@@ -1,4 +1,6 @@
 # **Sharifa Al Assi**
+![This is a alt text.](https://htmlcolorcodes.com/assets/images/colors/blood-red-color-solid-background-1920x1080.png"
+ "This is a sample image.")
 
 ## 
 
@@ -11,7 +13,7 @@
 **Email:** sharifaalassi2001@gmail.com
 
 
-**Age:** 
+**Age:** 19
 
 **Languages:** Arabic and English
 
