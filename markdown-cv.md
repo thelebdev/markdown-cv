@@ -19,7 +19,7 @@
 
 
 ## **About Me:** 
-A highly motivated student and hard-worker, throught my education, I have demonstrated high levels of motivation, and teamwork to achieve my predicted grades.
+A highly motivated student and hard-worker, through my education, I have demonstrated high levels of motivation, and team work to achieve my predicted grades.
 
 
 ### Education
